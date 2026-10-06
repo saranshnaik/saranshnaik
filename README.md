@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a passionate coder. I first learned coding in my elementary school years. I'm enthusiastic about space and neural technology. Currently pursuing a BTech degree at IIIT Vadodara, I have an aim to contribute meaningfully to technological advancements in the future.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saranshh0_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saranshnaik14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saransh.naik14@gmail.com) 
 
 # 💻 Tech Stack:

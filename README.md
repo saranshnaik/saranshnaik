@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I like to code.
+I'm a passionate coder. I first learned coding in my elementary school years. I'm enthusiastic about space and neural technology. Currently pursuing a BTech degree at IIIT Vadodara, I have an aim to contribute meaningfully to technological advancements in the future.
 
 
 ## 🌐 Socials:
